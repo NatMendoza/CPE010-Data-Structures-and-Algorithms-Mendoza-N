@@ -81,9 +81,6 @@ By the end of the course, I aim to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
-
-### Python
 
 </div>
 
@@ -92,8 +89,6 @@ By the end of the course, I aim to:
 # 🛠️ Tools & Technologies
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" alt="Python"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" alt="Git"/>
 
