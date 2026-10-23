@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20031-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+ # C++ Image 
 
 <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge"/>
 
@@ -107,7 +107,7 @@ By the end of the course, I aim to:
 
 | Technology | Purpose |
 |------------|---------|
-| 🐍 Python | Data Analysis & Programming |
+| 🐍 C++ | DSA |
 | 📝 VS Code | Code Editor |
 | 🌿 Git | Version Control |
 | 📂 GitHub | Repository Hosting |
@@ -121,14 +121,11 @@ By the end of the course, I aim to:
 # 📂 Repository Structure
 
 ```text
-📦 CPE031-Visualizations-and-Data-Analysis (TO BE UPDATED)
+📦 CPE 010 – Data Structures and Algorithms
 │
-├── 📁 Laboratory Activities
-├── 📁 Assignments
-├── 📁 Projects
-├── 📁 Datasets
-├── 📁 Visualizations
-├── 📁 Dashboards
+├── 📁 FINALS
+├── 📁 MIDTERMS
+├── 📁 PRELIMS
 └── 📄 README.md
 ```
 
@@ -138,9 +135,9 @@ By the end of the course, I aim to:
 
 | Module | Status |
 |----------|----------|
-| Prelim Activities | ⏳ In Progress |
-| Midterm Activities | ⏳ Upcoming |
-| Final Activities | ⏳ Upcoming |
+| Prelim Activities | ⏳ DONE |
+| Midterm Activities | ⏳ DONE |
+| Final Activities | ⏳ DONE |
 | Projects | ⏳ Upcoming |
 
 ---
